@@ -181,7 +181,7 @@ services:
   app_proxy:
     environment:
       # The format here is: <app-id>_<docker-service-name>_1
-      APP_HOST: axel-ebusdvaillant_server_1
+      APP_HOST: axel1961-alt-ebusdvaillant_server_1
       APP_PORT: 3000
     
   server:
